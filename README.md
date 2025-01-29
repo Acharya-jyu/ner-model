@@ -36,7 +36,7 @@ Key Features
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/medical-entity-recognition.git
+git clone https://github.com/acharya-jyu/medical-entity-recognition.git
 cd medical-entity-recognition
 
 ## Install dependencies:
