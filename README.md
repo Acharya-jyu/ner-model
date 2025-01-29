@@ -67,20 +67,20 @@ python model_tester.py
 - Comprehensive error handling and boundary refinement
 
 ## Training Configuration
-
-<ul>Learning Rate: 5e-5</ul>
-<ul>Batch Size: 8</ul>
-<ul>Training Epochs: 15</ul>
-<ul>Weight Decay: 0.01</ul>
-<ul>Warmup Steps: 500</ul>
-<ul>Early Stopping: Patience of 5 epochs</ul>
+<pre>
+Learning Rate: 5e-5
+Batch Size: 8
+Training Epochs: 15
+Weight Decay: 0.01
+Warmup Steps: 500
+Early Stopping: Patience of 5 epochs </pre>
 
 ## Citation (bibtex)
-@article{medical-ner-2025,
+<pre>@article{medical-ner-2025,
   title={Medical Entity Recognition System Using Transfer Learning},
   author={Aashish Acharya},
   year={2025}
-}
+}</pre>
 ## Pretrained Model
 The fine-tuned model is available on Hugging Face: acharya-jyu/BioMed-NER-English
 ## Contributing
