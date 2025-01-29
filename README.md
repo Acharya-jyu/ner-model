@@ -26,11 +26,11 @@ Key Features
 
 
 ## Repository Structure
-├── data_loader.py        # Dataset loading and preparation
-├── model_trainer.py      # Model training implementation
-├── model_tester.py       # Testing and evaluation scripts
-├── requirements.txt      # Project dependencies
-└── README.md            # Project documentation
+<ul>├── data_loader.py        # Dataset loading and preparation </ul>
+<ul>├── model_trainer.py      # Model training implementation </ul>
+<ul>├── model_tester.py       # Testing and evaluation scripts </ul>
+<ul>├── requirements.txt      # Project dependencies </ul>
+<ul>└── README.md            # Project documentation </ul>
 
 # Installation
 
